@@ -1,4 +1,4 @@
-package com.example.tp_spring_cloud;
+package com.example.tp_spring_cloud.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
